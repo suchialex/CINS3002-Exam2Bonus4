@@ -45,7 +45,7 @@
   <summary>
     ✅ TODO 5: ⏩ 7-8
   </summary>
-  Find the index position of `Bob Singer` and print it<br>
+  Find the index position of **Bob Singer** and print it<br>
   <code>employee = ["28678", "Bob Singer", "HR", [90, 95, 67], ["Manager", "Supervisor", "Team Leader"]]</code>
 </details>
 
@@ -91,7 +91,7 @@
   Reverse the list and print it<br>
   <code>scores_list = [99, 98, 96, 94, 100, 92, 90]</code>  
 
-  - 📜 `print(scores_list) should display [90, 92, 100, 94, 96, 98, 99]
+  - 📜 <code>print(scores_list)</code> should display [90, 92, 100, 94, 96, 98, 99]
 </details>
 
 
@@ -102,7 +102,7 @@
   Sort the elements of the list and print it<br>
   <code>sales_data = [100.45, 102.67, 230.22, 115.75, 201.33, 118.56]</code>  
 
-  - 📜 `print(sales_data)` should display [100.45, 102.67, 115.75, 118.56, 201.33, 230.22]
+  - 📜 <code>print(sales_data)</code> should display [100.45, 102.67, 115.75, 118.56, 201.33, 230.22]
 </details>
 
 
@@ -117,7 +117,7 @@
   <code>employee = ["28678", "Bob Singer", "HR"]</code><br>
   <code>more_data = ["08/01/1982", "bob@company.com" ]</code><br>
 
-  - 📜 Final result when printed should be ["28678", "Bob Singer", "HR", "08/01/1982", "bob@company.com"]
+  - 📜 <code>print(employee)</code> should display ["28678", "Bob Singer", "HR", "08/01/1982", "bob@company.com"]
 </details>
 
 
@@ -135,7 +135,9 @@
     ✅ TODO 13: ⏩ 7-20b
   </summary>
   Convert the string to a list with 7 elements and print the list<br>
-  <code>weekdays = "Sunday;Monday;Tuesday;Wednesday;Thursday;Friday;Saturday"</code>
+  <code>weekdays = "Sunday;Monday;Tuesday;Wednesday;Thursday;Friday;Saturday"</code>  
+
+  - 📜The output should be ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 </details>
 
 
@@ -156,7 +158,9 @@
     ✅ TODO 15: ⏩ 7-22
   </summary>
   Clear the data from the list<br>
-  <code>employee = ["28678", "Bob Singer", "HR", [90, 95, 67], ["Manager", "Supervisor", "Team Leader"]]</code>
+  <code>employee = ["28678", "Bob Singer", "HR", [90, 95, 67], ["Manager", "Supervisor", "Team Leader"]]</code>  
+
+  - print(employee) should display []
 </details>
 
 
@@ -166,6 +170,8 @@
   </summary>
    Delete the list
   <code>sales = [100.45, 102.67, 230.22, 115.75, 201.33, 118.56]</code>
+
+  - print(employee) should give an error
 </details>
 
 
