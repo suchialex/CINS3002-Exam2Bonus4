@@ -69,8 +69,8 @@
   <summary>
     ✅ TODO 7: ⏩ 7-15
   </summary>
-  Calculate the min, max and sum of the list<br>
-  <code>sales_data = [100.45, 102.67, 230.22, 115.75, 201.33, 118.56]</code>
+  Calculate the min, max and sum of the list rounded to two decimals<br>
+  <code>sales_data = [100.45, 102.697, 230.22, 115.715, 201.332, 118.56]</code>
 </details>
 
 
@@ -89,7 +89,9 @@
     ✅ TODO 9: ⏩ 7-16
   </summary>
   Reverse the list and print it<br>
-  <code>scores_list = [99, 98, 96, 94, 100, 92, 90]</code>
+  <code>scores_list = [99, 98, 96, 94, 100, 92, 90]</code>  
+
+  - 📜 `print(scores_list) should display [90, 92, 100, 94, 96, 98, 99]
 </details>
 
 
@@ -98,7 +100,9 @@
     ✅ TODO 10: ⏩ 7-17
   </summary>
   Sort the elements of the list and print it<br>
-  <code>sales_data = [100.45, 102.67, 230.22, 115.75, 201.33, 118.56]</code>
+  <code>sales_data = [100.45, 102.67, 230.22, 115.75, 201.33, 118.56]</code>  
+
+  - 📜 `print(sales_data)` should display [100.45, 102.67, 115.75, 118.56, 201.33, 230.22]
 </details>
 
 
