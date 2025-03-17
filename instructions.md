@@ -1,6 +1,6 @@
 # Instructions  
 
-- In replit under bonuses folder -> exam2bonus1.py -> Create a function called all_todos() - use pass keyword in the function body for now
+- In replit under bonuses folder -> exam2bonus4.py -> Create a function called all_todos() - use pass keyword in the function body for now
 - Create a function for each todo for example TODO 1 will be in todo1()
 - Call todo1() in all_todos() after the pass keyword
 - Import the bonuses/exam2bonus4 module in main. Call all_todos() in main.py
